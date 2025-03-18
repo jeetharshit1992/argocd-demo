@@ -13,7 +13,7 @@ spec:
       valueFiles:
       - values.yaml
     path: ./charts/podinfo
-    repoURL: https://github.com/jeetharshit1992/podinfo-demo.git
+    repoURL: https://github.com/jeetharshit1992/podinfo-gitOps.git
     targetRevision: HEAD
   syncPolicy:
     automated:
